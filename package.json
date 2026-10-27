@@ -12,5 +12,11 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "@upstash/redis": "^1.35.0"
+  },
+  "devDependencies": {
+    "typescript": "5.8.2",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/node": "20.17.6"
   }
 }
